@@ -43,5 +43,6 @@ The dashboard allows filtering by **Contract Type, Payment Method, and Internet 
 ---
 
 ## 🖼 Screenshots
-![Dashboard Overview](screenshots/dashboard_overview.png)  
+![Dashboard Overview]<img width="643" height="677" alt="Screenshot 2026-01-11 112015" src="https://github.com/user-attachments/assets/5e178cc2-cb4f-4e69-a312-5244b8eb4e0d" />
+
 
